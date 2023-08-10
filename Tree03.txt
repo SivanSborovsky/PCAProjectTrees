@@ -1,0 +1,60 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "Maria Rangel Venegas",
+      "gender": "f",
+      "born": 1924,
+      "birth": "Mexico",
+      "immigrated": 1,
+      "dead": 1,
+      "age": 91,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 2,
+      "salary": 0,
+      "children": [
+        {
+          "name": "Francisco R Venegas",
+          "gender": "m",
+          "born": 1903,
+          "birth": "USA",
+          "immigrated": 0,
+          "dead": 1,
+          "age": 63,
+          "occupation": "Unknown",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        },{
+        "name": "José Venegas",
+          "gender": "m",
+          "born": 1906,
+          "birth": "USA",
+          "immigrated": 0,
+          "dead": 1,
+          "age": 3,
+          "occupation": "Unknown",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        }]
+    },
+    "spouse": {
+      "name": "Pablo Venegas",
+      "gender": "m",
+      "born": 1878,
+      "birth": "Mexico",
+      "immigrated": 1,
+      "dead": 1,
+      "age": 56,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 2,
+      "salary": 0
+    }
+  }
+}

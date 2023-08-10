@@ -1,0 +1,92 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "Sergio Sborovsky",
+      "gender": "m",
+      "born": 1962,
+      "birth": "Paraguay",
+      "immigrated": 1,
+      "dead": 0,
+      "age": 61,
+      "occupation": "Marketing",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 3,
+      "salary": 0,
+      "children": [
+        {
+          "name": "Sivan Sborovsky",
+          "gender": "f",
+          "born": 1999,
+          "birth": "Israel",
+      "immigrated": 0,
+          "dead": 0,
+          "age": 23,
+          "occupation": "Student",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        },
+        {
+          "name": "Dafna Sborovsky",
+          "gender": "f",
+          "born": 1990,
+                "birth": "Brazil",
+      "immigrated": 1,
+          "dead": 0,
+          "age": 33,
+          "occupation": "Lawyer",
+          "Married": 1,
+          "Divorced": 0,
+          "Kids": 1,
+          "salary": 0,
+          "children": [
+            {
+              "name": "Tommy Dahan",
+              "gender": "m",
+              "born": 2021,
+                    "birth": "Israel",
+      "immigrated": 0,
+              "dead": 0,
+              "age": 2,
+              "occupation": "Unemployed",
+              "Married": 0,
+              "Divorced": 0,
+              "Kids": 0,
+              "salary": 0
+            }
+          ]
+        },
+        {
+          "name": "Sharon Sborovsky",
+          "gender": "f",
+          "born": 1993,
+                "birth": "Brazil",
+      "immigrated": 1,
+          "dead": 0,
+          "age": 30,
+          "occupation": "Computers",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        }
+      ]
+    },
+    "spouse": {
+      "name": "Rinat Sborovsky",
+      "gender": "f",
+      "born": 1962,
+      "birth": "Israel",
+      "immigrated": 1,
+      "dead": 0,
+      "age": 61,
+      "occupation": "Computers",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 3,
+      "salary": 0
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "Cypriano Jose Vieira",
+      "gender": "m",
+      "born": 1843,
+      "birth": "Portugal",
+      "immigrated": 0,
+      "dead": 1,
+      "age": 38,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 1,
+      "salary": 0,
+      "children": [
+        {
+          "name": "Maria Jacinta da Costa Vieira",
+          "gender": "f",
+          "born": 1871,
+          "birth": "Portugal",
+          "immigrated": 1,
+          "dead": 1,
+          "age": 85,
+          "occupation": "Unknown",
+          "Married": 1,
+          "Divorced": 1,
+          "Kids": 0,
+          "salary": 0
+        }]
+    },
+    "spouse": {
+      "name": "Rosa Candida Da Costa",
+      "gender": "f",
+      "born": 1839,
+      "birth": "Portugal",
+      "immigrated": 0,
+      "dead": 1,
+      "age": 79,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 1,
+      "salary": 0
+    }
+  }
+}

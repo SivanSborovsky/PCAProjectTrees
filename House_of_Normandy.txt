@@ -1,0 +1,108 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "King William I The Conqueror",
+          "gender": "m",
+          "born":1028,
+          "birth": "Normandy",
+      "immigrated": 1,
+          "dead":1,
+          "age":59,
+          "occupation": "King",
+          "Married":1,
+          "Divorced":0,
+          "Kids":4,
+          "salary": 0,
+      "children": [
+        {
+          "name": "Robert Curthose",
+          "birth": "Normandy",
+      "immigrated": 0,
+          "gender": "m",
+          "born":1054,
+          "dead":1,
+          "age":80,
+          "occupation": "Duke",
+          "Married":0,
+          "Divorced":0,
+          "Kids":0,
+          "salary": 0
+        },
+        {
+          "name": "William II",
+          "birth": "Normandy",
+      "immigrated": 0,
+          "gender": "m",
+          "born":1056,
+          "dead":1,
+          "age":46,
+          "occupation": "King",
+          "Married":0,
+          "Divorced":0,
+          "Kids":0,
+          "salary": 0
+        },
+        {
+          "name": "Henry I",
+          "birth": "Yorkshire",
+      "immigrated": 1,
+          "gender": "m",
+          "born":1068,
+          "dead":1,
+          "age":67,
+          "occupation": "King",
+          "Married":1,
+          "Divorced":0,
+          "Kids":22,
+          "salary": 0,
+
+              "children": [{
+              "name": "Empress Matilda",
+              "birth": "Yorkshire",
+              "immigrated": 1,
+              "gender": "f",
+              "born":1102,
+              "dead":1,
+              "age":65,
+              "occupation": "Empress",
+              "Married":1,
+              "Divorced":0,
+              "Kids":1,
+              "salary": 0
+              }]
+
+        },
+        {
+          "name": "Adela",
+          "birth": "Normandy",
+      "immigrated": 0,
+          "gender": "f",
+          "born":1062,
+          "dead":1,
+          "age":75,
+          "occupation": "Princess",
+          "Married":1,
+          "Divorced":0,
+          "Kids":1,
+          "salary": 0
+        }
+
+
+      ]
+    },
+    "spouse": {
+      "name": "Matilda",
+          "gender": "f",
+          "born":1031,
+          "birth": "UK",
+      "immigrated": 1,
+          "dead":1,
+          "age":52,
+          "occupation": "Queen",
+          "Married":1,
+          "Divorced":0,
+          "Kids":4,
+          "salary": 0
+    }
+  }
+}

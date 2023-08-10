@@ -1,0 +1,134 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "Arne Erson",
+      "gender": "m",
+      "born": 1659,
+      "birth": "Sweden",
+      "immigrated": 0,
+      "dead": 1,
+      "age": 50,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 4,
+      "salary": 0,
+      "children": [
+        {
+          "name": "Kierstin Arneson",
+          "gender": "f",
+          "born": 1687,
+          "birth": "Sweden",
+          "immigrated": 0,
+          "dead": 1,
+          "age": 80,
+          "occupation": "Unknown",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        },
+        {
+          "name": "Malin Arneson",
+          "gender": "f",
+          "born": 1698,
+          "birth": "Sweden",
+          "immigrated": 0,
+          "dead": 1,
+          "age": 0,
+          "occupation": "Unknown",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        },
+        {
+          "name": "Gunla Arneson",
+          "gender": "f",
+          "born": 1703,
+          "birth": "Sweden",
+          "immigrated": 0,
+          "dead": 1,
+          "age": 0,
+          "occupation": "Unknown",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        },
+        {
+          "name": "Jon Arneson",
+          "gender": "m",
+          "born": 1700,
+          "birth": "Sweden",
+          "immigrated": 0,
+          "dead": 1,
+          "age": 73,
+          "occupation": "Unknown",
+          "Married": 1,
+          "Divorced": 0,
+          "Kids": 6,
+          "salary": 0,
+          "children": [
+            {
+              "name": "Annicka Jonson",
+              "gender": "f",
+              "born": 1729,
+              "birth": "Sweden",
+              "immigrated": 0,
+              "dead": 1,
+              "age": 0,
+              "occupation": "Unknown",
+              "Married": 1,
+              "Divorced": 0,
+              "Kids": 0,
+              "salary": 0
+            },
+            {
+              "name": "Sigri Jonsson",
+              "gender": "m",
+              "born": 1731,
+              "birth": "Sweden",
+              "immigrated": 0,
+              "dead": 1,
+              "age": 0,
+              "occupation": "Unknown",
+              "Married": 0,
+              "Divorced": 0,
+              "Kids": 0,
+              "salary": 0
+            }
+          ]
+        },
+        {
+          "name": "Nils Jonson",
+          "gender": "m",
+          "born": 1733,
+          "birth": "Sweden",
+          "immigrated": 0,
+          "dead": 1,
+          "age": 76,
+          "occupation": "Unknown",
+          "Married": 0,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        }
+      ]
+    },
+    "spouse": {
+      "name": "Annicka Torkelsdotter",
+      "gender": "f",
+      "born": 1664,
+      "birth": "Sweden",
+      "immigrated": 0,
+      "dead": 1,
+      "age": 0,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 4,
+      "salary": 0
+    }
+  }
+}

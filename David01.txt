@@ -1,0 +1,31 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "Leopold Zivcon",
+          "gender": "m",
+          "born":1912,
+          "birth": "Latvia",
+      "immigrated": 0,
+          "dead":1,
+          "age":29,
+          "occupation": "Engineer",
+          "Married":1,
+          "Divorced":0,
+          "Kids":1,
+          "salary": 0},
+    "spouse": {
+      "name": "Olga Zivcon",
+          "gender": "f",
+          "born":1912,
+          "birth": "Latvia",
+      "immigrated": 0,
+          "dead":1,
+          "age":0,
+          "occupation": "Unknown",
+          "Married":1,
+          "Divorced":0,
+          "Kids":1,
+          "salary": 0
+    }
+  }
+}

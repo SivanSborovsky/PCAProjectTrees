@@ -1,0 +1,47 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "Martin Ludvig Levin",
+      "gender": "m",
+      "born": 1850,
+      "birth": "Denmark",
+      "immigrated": 0,
+      "dead": 1,
+      "age": 0,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 1,
+      "salary": 0,
+      "children": [
+        {
+          "name": "Petrea Maria Levin",
+          "gender": "f",
+          "born": 1878,
+          "birth": "Denmark",
+          "immigrated": 1,
+          "dead": 1,
+          "age": 0,
+          "occupation": "Unknown",
+          "Married": 1,
+          "Divorced": 0,
+          "Kids": 0,
+          "salary": 0
+        }]
+    },
+    "spouse": {
+      "name": "Charlotte Amalie Pedersen",
+      "gender": "f",
+      "born": 1852,
+      "birth": "Denmark",
+      "immigrated": 0,
+      "dead": 1,
+      "age": 0,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 1,
+      "salary": 0
+    }
+  }
+}

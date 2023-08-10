@@ -1,0 +1,103 @@
+{
+  "family_tree": {
+    "root": {
+      "name": "Charles Philip Arthur George",
+          "gender": "m",
+          "born":1948,
+          "birth": "London",
+      "immigrated": 0,
+          "dead":0,
+          "age":74,
+          "occupation": "King",
+          "Married":1,
+          "Divorced":1,
+          "Kids":2,
+          "salary": 0,
+
+      "children": [{
+      "name": "Henry Charles Albert David",
+      "gender": "m",
+      "born": 1984,
+      "birth": "London",
+      "immigrated": 1,
+      "dead": 0,
+      "age": 38,
+      "occupation": "Unknown",
+      "Married": 1,
+      "Divorced": 0,
+      "Kids": 0,
+      "salary": 0
+      },
+    {
+      "name": "William Arthur Philip Louis",
+      "gender": "m",
+      "born":1982,
+      "birth": "London",
+      "immigrated": 0,
+      "dead":0,
+      "age":41,
+      "occupation": "Prince",
+      "Married":1,
+      "Divorced":0,
+      "Kids":3,
+      "salary": 0,
+
+      "children": [{
+      "name": "Princess Charlotte",
+      "gender": "f",
+      "born":2015,
+      "birth": "London",
+      "immigrated": 0,
+      "dead":0,
+      "age":8,
+      "occupation": "Princess",
+      "Married":0,
+      "Divorced":0,
+      "Kids":0,
+      "salary": 0
+      },
+          {"name": "George Alexander Louis",
+      "gender": "m",
+      "born": 2013,
+      "birth": "London",
+      "immigrated": 0,
+      "dead": 0,
+      "age": 10,
+      "occupation": "Unemployed",
+      "Married": 0,
+      "Divorced": 0,
+      "Kids": 0,
+      "salary": 0
+          },
+          {"name": "Louis Arthur Charles",
+      "gender": "m",
+      "born": 2018,
+      "birth": "London",
+      "immigrated": 0,
+      "dead": 0,
+      "age": 5,
+      "occupation": "Unemployed",
+      "Married": 0,
+      "Divorced": 0,
+      "Kids": 0,
+      "salary": 0
+          }]
+        }
+      ]
+    },
+    "spouse": {
+      "name": "Diana Frances",
+          "gender": "f",
+          "born":1961,
+          "birth": "UK",
+      "immigrated": 0,
+          "dead":1,
+          "age":36,
+          "occupation": "Princess",
+          "Married":0,
+          "Divorced":1,
+          "Kids":2,
+          "salary": 0
+    }
+  }
+}
